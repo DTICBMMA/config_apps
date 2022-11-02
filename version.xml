@@ -3,13 +3,13 @@
     <channel>
         <title>App - Appcast</title>
         <item>
-            <title>Versão 1.0.5</title>
+            <title>Versão 1.0.2</title>
             <description>
                 Geolocalização das unidades operacionais
                 Geolocalização dos colégios militares 2 de julho
             </description>
             <pubDate>Wen, 01 Nov 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.ssp.cbmma.digital" sparkle:version="1.0.5" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.ssp.cbmma.digital" sparkle:version="1.0.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
