@@ -1,5 +1,5 @@
 {
-    "android":"https://play.google.com/store/apps/details?id=com.ssp.cbmma.digital",
+    "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://cbm.ssp.ma.gov.br/app-cbmma-digital-para-iphone/",
     "version":"2.0.2",
     "notes": ["Correção de bugs"]
