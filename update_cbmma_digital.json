@@ -1,6 +1,6 @@
 {
     "android":"https://play.google.com/store/apps/details?id=com.ssp.cbmma.digital",
     "ios":"https://cbm.ssp.ma.gov.br/app-cbmma-digital-para-iphone/",
-    "version":"2.0.1",
-    "notes": ["Renovação do layout, Carteira Funcional Digital, Contatos, Mapas interativos e muito mais"]
+    "version":"2.0.2",
+    "notes": ["Correção de bugs"]
 }
