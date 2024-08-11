@@ -1,6 +1,6 @@
 {
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://cbmconnecta.com.br/nivel-basico/link-cbmma-digital",
-    "version":"2.0.4",
+    "version":"2.1.1",
     "notes": ["Correção de bugs","Atualização das informações do CBMConnecta","Exibição do CRAF"]
 }
