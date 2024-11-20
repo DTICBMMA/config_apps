@@ -1,6 +1,6 @@
 {
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://cbmconnecta.com.br/nivel-basico/link-cbmma-digital",
-    "version":"2.1.3",
-    "notes": ["Ajudância-Geral cria eventos e tira faltas"]
+    "version":"2.1.4",
+    "notes": ["Correção de bug na notificação do iOS"]
 }
