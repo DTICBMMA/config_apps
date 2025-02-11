@@ -1,6 +1,6 @@
 {
     "android":"market://details?id=com.ssp.cbmma.digital",
-    "ios":"https://cbmconnecta.com.br/nivel-basico/link-cbmma-digital",
-    "version":"2.1.4",
-    "notes": ["Correção de bug na notificação do iOS"]
+    "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
+    "version":"2.1.5",
+    "notes": ["Atualização do controle de faltas realizado pela Ajudância-Geral"]
 }
