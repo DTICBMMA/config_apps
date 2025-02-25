@@ -2,5 +2,7 @@
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
     "version":"2.1.6",
+    "version_android":"2.1.6",
+    "version_ios":"2.1.6",
     "notes": ["Atualização do controle de faltas realizado pela Ajudância-Geral"]
 }
