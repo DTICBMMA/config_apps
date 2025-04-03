@@ -1,4 +1,4 @@
 {
-    "permitirAssinaturaRetroativaFrequenciaComandante":false,
-    "permitirAssinaturaRetroativaFrequenciaContratado":false,
+    "permitirAssinaturaRetroativaFrequenciaComandante":true,
+    "permitirAssinaturaRetroativaFrequenciaContratado":true,
 }
