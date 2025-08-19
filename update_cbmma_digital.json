@@ -3,6 +3,6 @@
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
     "version":"2.3.3",
     "version_android":"2.3.3",
-    "version_ios":"2.1.6",
+    "version_ios":"2.3.3",
     "notes": ["Atualização do controle de faltas realizado pela Ajudância-Geral","Novo design","Implementação do SIGOP (escalas e permutas)","Correção de bugs"]
 }
