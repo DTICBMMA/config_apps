@@ -4,5 +4,5 @@
     "version":"2.3.5",
     "version_android":"2.3.5",
     "version_ios":"2.3.5",
-    "notes": ["Correção de bugs"]
+    "notes": ["Prontidão do COCB-Norte", "Prontidão do COCB-Sul", "Acesso a escala facilitado", "Permuta parcial"]
 }
