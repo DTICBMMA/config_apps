@@ -1,8 +1,8 @@
 {
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
-    "version":"2.3.5",
-    "version_android":"2.3.5",
+    "version":"2.3.6",
+    "version_android":"2.3.6",
     "version_ios":"2.3.6",
     "notes": ["Prontidão do COCB-Norte", "Prontidão do COCB-Sul", "Acesso a escala facilitado", "Permuta parcial"]
 }
