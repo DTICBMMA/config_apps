@@ -4,5 +4,6 @@
     "version":"2.3.6",
     "version_android":"2.3.7",
     "version_ios":"2.3.6",
-    "notes": ["Atualização obrigatória pelo Google"]
+    "notes": ["Atualização no layout do app", "Acesso às publicações no conecta", "Gestão das frequências do RR Contratados", "Consumo dos dados dos contatos e hidrantes a partir do conecta",
+    ]
 }
