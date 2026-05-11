@@ -2,8 +2,7 @@
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
     "version":"2.4.0",
-    "version_android":"2.4.0",
+    "version_android":"2.4.1",
     "version_ios":"2.4.0",
-    "notes": ["Atualização no layout do app","Acesso às publicações no conecta","Acesso aos ofícios circulares","Apresentação dos status de promoção","Correção do compartilhamento da identidade funcional no iOS","Carregamento lento dos avisos",
-        "Gestão das frequências do RR Contratados","Consumo dos dados dos contatos e hidrantes a partir do conecta"]
+    "notes": ["Correção de bug no registro de preseça/faltas na educação física"]
 }
