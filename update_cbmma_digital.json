@@ -3,6 +3,6 @@
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
     "version":"2.4.1",
     "version_android":"2.4.1",
-    "version_ios":"2.4.1",
-    "notes": ["Correção de bug no registro de preseça/faltas na educação física"]
+    "version_ios":"2.4.2",
+    "notes": ["Correção do PDF da identidade funcional"]
 }
