@@ -1,8 +1,8 @@
 {
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
-    "version":"2.4.1",
-    "version_android":"2.4.1",
+    "version":"2.4.2",
+    "version_android":"2.4.2",
     "version_ios":"2.4.2",
     "notes": ["Correção do PDF da identidade funcional"]
 }
