@@ -1,8 +1,8 @@
 {
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
-    "version":"2.4.2",
+    "version":"2.4.3",
     "version_android":"2.4.3",
-    "version_ios":"2.4.2",
+    "version_ios":"2.4.3",
     "notes": ["Acesso às escalas diárias da unidade", "Acesso às escalas mensais da unidade", "Acesso às escalas pendentes para os militares com níveis Comandante, Escalante e Assinante de Escala", "Acesso às permutas que estão aguardando autorização para os militares com níveis Comandante, Escalante e Assinante de Escala", "Autorização de permutas para militares com níveis Comandante, Escalante e Assinante de Escala", "Assinatura de escalas pendentes para militares com nível Comandante e Assinante Escala"]
 }
