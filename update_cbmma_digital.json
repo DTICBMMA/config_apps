@@ -1,8 +1,8 @@
 {
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
-    "version":"2.4.4",
+    "version":"2.4.5",
     "version_android":"2.4.5",
-    "version_ios":"2.4.4",
+    "version_ios":"2.4.5",
     "notes": ["Correção de bug no Módulo da JOE"]
 }
