@@ -4,5 +4,5 @@
     "version":"2.4.4",
     "version_android":"2.4.5",
     "version_ios":"2.4.4",
-    "notes": ["Correção do Módulo da JOE"]
+    "notes": ["Correção de bug no Módulo da JOE"]
 }
