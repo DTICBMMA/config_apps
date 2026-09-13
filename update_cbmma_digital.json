@@ -4,5 +4,5 @@
     "version":"2.4.7",
     "version_android":"2.4.7",
     "version_ios":"2.4.7",
-    "notes": ["Correção de bug na inserção do relatório da JOE"]
+    "notes": ["Novidades: login e sessões mais seguros, avisos renovados, contatos aprimorados e PDFs mais estáveis. Melhorias em escalas, permutas, frequência, senha e notificações."]
 }
