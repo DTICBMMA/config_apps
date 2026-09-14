@@ -2,7 +2,7 @@
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
     "version":"2.4.7",
-    "version_android":"2.4.7",
+    "version_android":"2.4.8",
     "version_ios":"2.4.7",
     "notes": ["Novidades: login e sessões mais seguros, avisos renovados, contatos aprimorados e PDFs mais estáveis. Melhorias em escalas, permutas, frequência, senha e notificações."]
 }
