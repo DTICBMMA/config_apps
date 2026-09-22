@@ -2,7 +2,7 @@
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
     "version":"2.4.8",
-    "version_android":"2.4.8",
+    "version_android":"2.5.1",
     "version_ios":"2.4.8",
-    "notes": ["Aprimoramento completo da Parte Diária com novos módulos, melhorias na formatação de dados e robustez. Adicionadas funcionalidades de Anexos, Assinaturas Pendentes e Armamentos. Refatoração e otimizações visuais com snackbars personalizáveis. Testes expandidos garantem confiabilidade."]
+    "notes": ["Novo módulo Parte Diária, melhorias na formatação de dados e robustez. Refatoração e otimizações visuais com snackbars personalizáveis. Testes expandidos garantindo confiabilidade."]
 }
