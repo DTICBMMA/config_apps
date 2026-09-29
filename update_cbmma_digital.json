@@ -2,7 +2,7 @@
     "android":"market://details?id=com.ssp.cbmma.digital",
     "ios":"https://conecta.cbm.ma.gov.br/nivel-basico/link-cbmma-digital",
     "version":"2.5.1",
-    "version_android":"2.5.1",
+    "version_android":"2.6.1",
     "version_ios":"2.5.1",
-    "notes": ["Novo módulo Parte Diária, melhorias na formatação de dados e robustez. Refatoração e otimizações visuais com snackbars personalizáveis. Testes expandidos garantindo confiabilidade."]
+    "notes": ["Novo módulo guarda de urna e seção preferências."]
 }
